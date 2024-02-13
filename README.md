@@ -1,10 +1,10 @@
 # pengalaman-belajar
 
-13 Februari 2024
+**13 Februari 2024**<br>
 * belajar git dan github
 * ikut belajar online di apa pun itu tempatnya
 
-15 Februari 2024
+**15 Februari 2024**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
